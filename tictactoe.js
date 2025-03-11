@@ -302,7 +302,7 @@ function Board() {
  */
 function drawBoard() {
   ctx.strokeStyle = 'black';
-  ctx.lineWidth   = 2;
+  ctx.lineWidth   = 4;
   ctx.fillStyle   = 'black';
   ctx.font        = "50pt Calibri";
 
